@@ -1,0 +1,12 @@
+/* Test Test Account delete buttons*/
+div[class*="219jAThk6IAKLPrkdSh0"] .hl_controls--right .hl-btn:nth-child(2), 
+div[class*="219jAThk6IAKLPrkdSh0"] .hl_controls--right .btn.btn-success,
+div[class*="219jAThk6IAKLPrkdSh0"] .hl_settings--customize-communication.hl_witoput-topbar div.container-fluid div.hl_controls--right button.hl-btn {
+    display: none !important;
+}
+
+/* Anthony Henderson */
+div[class*="qumAhb7cYtWXMOtyphAC"] img.object-contain.agency-logo{
+    content: url("https://firebasestorage.googleapis.com/v0/b/highlevel-backend.appspot.com/o/locationPhotos%2FqumAhb7cYtWXMOtyphAC.png?alt=media&token=baf94e13-a6b3-4919-b79e-27c9de28ab38")  !important;
+}
+    
